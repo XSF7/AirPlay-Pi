@@ -1,7 +1,8 @@
 # AirPlay-Pi
 AirPlay Orange Pi Zero
 ----------------------
------------------------------------------------------------------------------------------------------------------------------
+![alt text](https://www.robotistan.com/orange-pi-zero-256mb-board-18295-64-B.jpg)
+
 
 **Commands** :
 
@@ -16,4 +17,6 @@ sudo service shairport-sync start
 sudo systemctl status shairport-sync.service
 
 **Required:**
+
+
 ![alt text](http://auseparts.com.au/image/cache/catalog/OrangePi/ExBoard/OPEx%20board1-700x700.jpg)
